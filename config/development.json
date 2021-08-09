@@ -1,0 +1,10 @@
+{
+    "name": "API Rest Express & MongoDB - Users and Items",
+    "DBConfig": {
+        "HOST": "mongodb://localhost:27017/demo-api"
+    },
+    "tokenConfig": {
+        "SEED":"secret",
+        "expiration": "24h"
+    }
+}

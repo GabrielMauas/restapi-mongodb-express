@@ -1,0 +1,10 @@
+{
+    "name": "API Rest Express & MongoDB - Users and Items",
+    "DBConfig": {
+
+    },
+    "tokenConfig": {
+        "SEED":"secret",
+        "expiration": "24h"
+    }
+}
